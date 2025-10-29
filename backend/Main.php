@@ -7,3 +7,6 @@ echo "Hola mundo desde laravel";
 
 //luisa 
 echo "prueba luisa";
+
+// sofia 
+echo "prueba sofia";
